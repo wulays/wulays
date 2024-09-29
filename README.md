@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/-Vite-C8DBBE?logo=Vite&style=for-the-badge" /> 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
   <img alt="VS Code" src="https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=">
+  <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /> 
 </p>
 
 ## Github status
@@ -29,4 +30,4 @@
 
 ## Contact me
 
-- ✍️ [Blogger](https://wulays.github.io)
+- ✍️ [Blog](https://wulays.github.io)
